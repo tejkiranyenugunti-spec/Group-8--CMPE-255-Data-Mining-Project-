@@ -58,4 +58,4 @@ jupyter notebook notebooks/Team8_Analysis.ipynb
 
 ---
 **San Jose State University**  
-**Spring 2026**
+**Spring 2026***
